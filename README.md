@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @wolfcomos
-- 👀 I’m interested in ML/DL
-- 🌱 I’m currently learning SQL/Python/Data Structure
+- 👀 I’m interested in ML Compiler/CUDA Programming/MLSys
 - 💞️ I’m looking to collaborate on side projects
-- 📫 How to reach me
 
 ⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⢻<br />
 ⣿⣿⣿⠀⣿⣶⣕⣈⠹⠿⠿⠿⠿⠟⠛⣛⢋⣰⠣⣿⣿⠀⣿<br />
